@@ -8,9 +8,9 @@ Hi! I'm a Computer Scientist passionate about technology and  problem-solving. I
 - **[Project Name 2](link)**: Another brief description.
 
 ## Technologies
-- Languages: C, SQL, Java
+- Languages: C, SQL, Java, Kotlin
 - Frameworks: 
-- Tools: Git
+- Tools: Git, Android studio
 
 ## Connect with Me
 - Email: [Email Me](mailto:isaacnamutali27@gmail.com)
