@@ -4,13 +4,13 @@
 Hi! I'm a Computer Scientist passionate about technology and  problem-solving. I specialize in [list your specialties]. Check out some of my projects below!
 
 ## Projects
-- **[Project Name 1](link)**: A short description of this project.
+- **[Nesorra Website](https://nesorra-uganda.netlify.app/)**: A website for telepsychiatric services.
 - **[Project Name 2](link)**: Another brief description.
 
 ## Technologies
-- Languages: C, SQL, Java, Kotlin
+- Languages: HTML, Java-script, CSS, SQL
 - Frameworks: 
-- Tools: Git, Android studio
+- Tools: Git, 
 
 ## Connect with Me
 - Email: [Email Me](mailto:isaacnamutali27@gmail.com)
